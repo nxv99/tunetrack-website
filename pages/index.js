@@ -58,7 +58,7 @@ function IndexPage() {
             className="ml-auto text-center"
           >
             <img
-              src="/homeImage.png"
+              src="/F9CB6624-B96F-4410-8DFF-0279DF725CCF.png"
               alt="Screenshot"
               className="h-164 mx-auto "
             />
